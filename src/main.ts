@@ -1,9 +1,7 @@
-import App from './App.svelte';
-import 'virtual:windi.css';
 import 'virtual:windi-devtools';
+import 'virtual:windi.css';
+import App from './App.svelte';
 
-const app = new App({
+export default new App({
   target: document.body
 })
-
-export default app;
