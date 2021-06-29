@@ -1,6 +1,6 @@
-# Svelte + WindiCSS + TS + Vite
+# Svelte + WindiCSS + TS + Vite + Yarn 2
 
-This template should help get you started developing with Svelte and TypeScript in Vite. It adds [WindiCSS](https://windicss.org) too instead of Tailwind.
+This template should help get you started developing with Svelte and TypeScript in Vite. It adds [WindiCSS](https://windicss.org) too instead of Tailwind, and uses Yarn 2 instead of Yarn.
 
 ## Recommended IDE Setup
 
